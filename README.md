@@ -16,6 +16,6 @@ It was a hobby project, feel free to steal.
 
 ## Notes 
 
-Made this in 2023 (3 years ago), I cannot remember to give instruction on what I used or how I used it. 
+Made this in 2023 (3 years ago), I do not remember what I did to give any instructions. 
 
-Credits: I followed the @Blender Guru tutorial on youtube. 
+Credits: @Blender Guru on YouTube. 

@@ -18,4 +18,4 @@ It was a hobby project, feel free to steal.
 
 Made this in 2023 (3 years ago), I do not remember what I did to give any instructions. 
 
-Credits: @Blender Guru on YouTube. 
+Credits: @Blender Guru tutorial on YouTube. 
